@@ -50,7 +50,7 @@ Tick a box only after you have added the solution and reviewed why it works. Eac
 - [x] Day 02 — [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) → `01-Select/02-Find-Customer-Referee/`
 - [x] Day 03 — [Big Countries](https://leetcode.com/problems/big-countries/) → `01-Select/03-Big-Countries/`
 - [x] Day 04 — [Article Views I](https://leetcode.com/problems/article-views-i/) → `01-Select/04-Article-Views-I/`
-- [ ] Day 05 — [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/) → `01-Select/05-invalid-tweets.sql`
+- [x] Day 05 — [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/) → `01-Select/05-Invalid-Tweets/`
 
 ### 02 · Basic Joins
 
