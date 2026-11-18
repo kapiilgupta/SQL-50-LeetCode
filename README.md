@@ -19,11 +19,18 @@ This is more than a collection of SQL answers. It is a public record of showing 
 
 ## Repository structure
 
-Solutions are organized by the topic sections in the study plan. Add each day's `.sql` file to the matching folder.
+Solutions are organized by topic. **Every problem has its own folder containing exactly two files: `README.md` (problem details and approach) and `solution.sql` (the SQL query).**
 
 ```text
 SQL-50-LeetCode/
 ├── 01-Select/
+│   ├── 01-Recyclable-and-Low-Fat-Products/
+│   │   ├── README.md
+│   │   └── solution.sql
+│   ├── 02-Find-Customer-Referee/
+│   │   ├── README.md
+│   │   └── solution.sql
+│   └── ...
 ├── 02-Basic-Joins/
 ├── 03-Basic-Aggregate-Functions/
 ├── 04-Sorting-and-Grouping/
@@ -35,12 +42,12 @@ SQL-50-LeetCode/
 
 ## 50-day progress tracker
 
-Tick a box only after you have added the solution and reviewed why it works. Suggested filenames are lowercase kebab-case with a `.sql` extension.
+Tick a box only after you have added the solution and reviewed why it works. Each problem folder follows the same two-file convention: `README.md` and `solution.sql`.
 
 ### 01 · Select
 
-- [x] Day 01 — [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) → `01-Select/01-recyclable-and-low-fat-products.sql`
-- [x] Day 02 — [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) → `01-Select/02-find-customer-referee.sql`
+- [x] Day 01 — [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) → `01-Select/01-Recyclable-and-Low-Fat-Products/`
+- [x] Day 02 — [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) → `01-Select/02-Find-Customer-Referee/`
 - [ ] Day 03 — [Big Countries](https://leetcode.com/problems/big-countries/) → `01-Select/03-big-countries.sql`
 - [ ] Day 04 — [Article Views I](https://leetcode.com/problems/article-views-i/) → `01-Select/04-article-views-i.sql`
 - [ ] Day 05 — [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/) → `01-Select/05-invalid-tweets.sql`
