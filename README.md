@@ -49,7 +49,7 @@ Tick a box only after you have added the solution and reviewed why it works. Eac
 - [x] Day 01 — [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) → `01-Select/01-Recyclable-and-Low-Fat-Products/`
 - [x] Day 02 — [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) → `01-Select/02-Find-Customer-Referee/`
 - [x] Day 03 — [Big Countries](https://leetcode.com/problems/big-countries/) → `01-Select/03-Big-Countries/`
-- [ ] Day 04 — [Article Views I](https://leetcode.com/problems/article-views-i/) → `01-Select/04-article-views-i.sql`
+- [x] Day 04 — [Article Views I](https://leetcode.com/problems/article-views-i/) → `01-Select/04-Article-Views-I/`
 - [ ] Day 05 — [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/) → `01-Select/05-invalid-tweets.sql`
 
 ### 02 · Basic Joins
